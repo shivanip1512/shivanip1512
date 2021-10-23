@@ -1,4 +1,4 @@
-<img align="left" width="180" height="180" alt="Shivani" src="https://user-images.githubusercontent.com/89596433/138573051-ad2ba095-6cc7-4c73-aef7-468c19720bf6.gif" />
+<img align="left" width="180" height="180" alt="Shivani" src="https://user-images.githubusercontent.com/89596433/138573079-3377e5d9-29df-4fe1-9f13-a41c88ee6797.gif" />
 
 ### Hello World! This is [Er.Shivani Pacharne](https://shivanip1512.github.io/) 👋
 

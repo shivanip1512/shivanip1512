@@ -1,10 +1,11 @@
-<img align="left" width="180" height="180" alt="Shivani" src="https://user-images.githubusercontent.com/72680045/103229550-485e7900-4959-11eb-95d2-41cdbc444ec0.png" />
+<img align="left" width="180" height="180" alt="Shivani" src="https://user-images.githubusercontent.com/89596433/138572890-6d6b46ed-058a-4968-b4ca-7ea1167638f8.png" />
 
 ### Hello World! This is [Er.Shivani Pacharne](https://shivanip1512.github.io/) 👋
 
 <p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=shivanip1512&color=blue" alt="shivanip1512" /> 
 </p>
+
 
 I am a Software Developer.<br>
 <br>

@@ -1,13 +1,15 @@
 <img align="left" width="180" height="180" alt="Shivani" src="https://user-images.githubusercontent.com/89596433/138573079-3377e5d9-29df-4fe1-9f13-a41c88ee6797.gif" />
 
-### Hello World! This is [Er.Shivani Pacharne](https://shivanip1512.github.io/) 👋
+### Hello World! This is [Shivani Pacharne](https://shivanip1512.github.io/) 👋
 
 <p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=shivanip1512&color=blue" alt="shivanip1512" /> 
 </p>
 
 
-I am a Software Developer.<br>
+I am a Software Developer working in Tata Consultancy Services.<br>
+Oracle Certified Java Programmer.<br>
+[Connect](https://www.linkedin.com/in/shivanip1512/) to know more about me!
 <br>
 
 
@@ -15,7 +17,7 @@ I am a Software Developer.<br>
 <br><br>
 ### About Me 🚀
 
-- 🤓 I’m looking to collaborate with Java 🐍 projects.
+- 🤓 I’m looking to collaborate with J2EE projects.
 - 💬 Ask me about anything, I am happy to help 😄
 - 📫 How to reach me  [🌐](https://shivanip1512.github.io/)
 

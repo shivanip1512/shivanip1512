@@ -11,7 +11,7 @@ I am a Software Developer.<br>
 
 
 <img align="right" height="240px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
+<br><br>
 ### About Me 🚀
 
 - 🤓 I’m looking to collaborate with Java 🐍 projects.
@@ -26,9 +26,6 @@ I am a Software Developer.<br>
 [<img align="left" alt="codeSTACKr | Gmail" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:shivanipacharne1512@gmail.com)
 <br>
 <br>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=shivanip1512&theme=dark&cache_seconds=1800&show_icons=true&count_private=true" alt="shivanip1512" width="60%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanip1512&langs_count=7&show_icons=true&count_private=true&cache_seconds=1800&layout=compact&hide_border=true&theme=dark" alt="shivanip1512" width="37%" />
 
 <br>
 <br>

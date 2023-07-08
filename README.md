@@ -1,16 +1,10 @@
-<img align="left" width="180" height="180" alt="Shivani" src="https://user-images.githubusercontent.com/89596433/138573079-3377e5d9-29df-4fe1-9f13-a41c88ee6797.gif" />
+<p align="center"><a href="[https://anuraghazra.github.io](https://shivanip1512.github.io/)"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="https://github.com/shivanip1512/shivanip1512/assets/89596433/058e35fd-92c1-4bbf-a135-3706a967b30f" /></a></p>
 
-### Hello World! This is [Shivani Pacharne](https://shivanip1512.github.io/) 👋
+This is the place where I opensource stuff and break things :rofl:
 
-<p align="left"> 
-	<img src="https://komarev.com/ghpvc/?username=shivanip1512&color=blue" alt="shivanip1512" /> 
-</p>
-
-
-&nbsp;&nbsp;&nbsp;This is the place where I opensource stuff and break things :rofl:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanip1512&color=blue" alt="shivanip1512" /> </p>
 
 <img align="right" height="200px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-<br><br>
 
 ### About Me
 

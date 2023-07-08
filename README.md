@@ -7,19 +7,20 @@
 </p>
 
 
-I am a Software Developer working in Tata Consultancy Services.<br>
-Oracle Certified Java Programmer.<br>
-[Connect](https://www.linkedin.com/in/shivanip1512/) to know more about me!
-<br>
-
+&nbsp;&nbsp;&nbsp;This is the place where I opensource stuff and break things :rofl:
 
 <img align="right" height="240px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <br><br>
-### About Me 🚀
 
-- 🤓 I’m looking to collaborate with J2EE projects.
-- 💬 Ask me about anything, I am happy to help 😄
-- 📫 How to reach me  [🌐](https://shivanip1512.github.io/)
+### About Me
+
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🌱 &nbsp;I’m currently learning Groovy & React.
+- 💬 &nbsp;Ask me about anything related to Java/SpringBoot or jQuery/JavaScript.
+- 📫 &nbsp;Checkout my portfolio [🌐 shivanip1512.github.io](https://shivanip1512.github.io/)
+- 👨‍💻 &nbsp;Read more about [my projects](https://shivanip1512.github.io/index.html#projects-section)
+- ⚡ &nbsp;Fun fact: I :heart: :dog:s and playing :badminton:
+
 
 <br>
 

@@ -1,4 +1,4 @@
-<p align="center"><a href="https://shivanip1512.github.io"><img width="80%" alt="Hello, I'm Shivani I do open source!" src="https://github.com/shivanip1512/shivanip1512/assets/89596433/058e35fd-92c1-4bbf-a135-3706a967b30f"/></a></p>
+<p align="center"><a href="https://shivanip1512.github.io"><img width="80%" alt="Hello, I'm Shivani I do open source!" src="./assets/readme header.png"/></a></p>
 
 This is the place where I opensource stuff and break things :rofl:
 

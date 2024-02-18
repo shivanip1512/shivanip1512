@@ -17,7 +17,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 <br>
 
-📊 &nbsp;**This week I spent my time on**
+📊 &nbsp;**This year I spent my time on**
 <!--START_SECTION:waka-->
 
 ```txt
